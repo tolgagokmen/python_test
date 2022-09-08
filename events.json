@@ -1,0 +1,112 @@
+{
+    "events": [
+        {
+            "stage_id": "time_out",
+            "patient_id": "patient_1",
+            "state_change": "started",
+            "timestamp": "2020-05-01 09:20:00"
+        },
+        {
+            "stage_id": "time_out",
+            "patient_id": "patient_2",
+            "state_change": "completed",
+            "timestamp": "2020-05-01 14:01:00"
+        },
+        {
+            "stage_id": "sign_in",
+            "patient_id": "patient_3",
+            "state_change": "completed",
+            "timestamp": "2020-05-01 14:20:00"
+        },
+        {
+            "stage_id": "sign_out",
+            "patient_id": "patient_3",
+            "state_change": "completed",
+            "timestamp": "2020-05-01 16:34:00"
+        },
+        {
+            "stage_id": "sign_out",
+            "patient_id": "patient_1",
+            "state_change": "completed",
+            "timestamp": "2020-05-01 11:40:00"
+        },
+        {
+            "stage_id": "time_out",
+            "patient_id": "patient_3",
+            "state_change": "started",
+            "timestamp": "2020-05-01 14:20:00"
+        },
+        {
+            "stage_id": "time_out",
+            "patient_id": "patient_2",
+            "state_change": "started",
+            "timestamp": "2020-05-01 13:52:00"
+        },
+        {
+            "stage_id": "time_out",
+            "patient_id": "patient_1",
+            "state_change": "completed",
+            "timestamp": "2020-05-01 09:30:00"
+        },
+        {
+            "stage_id": "sign_in",
+            "patient_id": "patient_2",
+            "state_change": "completed",
+            "timestamp": "2020-05-01 13:52:00"
+        },
+        {
+            "stage_id": "sign_in",
+            "patient_id": "patient_2",
+            "state_change": "started",
+            "timestamp": "2020-05-01 13:30:00"
+        },
+        {
+            "stage_id": "sign_out",
+            "patient_id": "patient_3",
+            "state_change": "started",
+            "timestamp": "2020-05-01 16:22:00"
+        },
+        {
+            "stage_id": "sign_in",
+            "patient_id": "patient_1",
+            "state_change": "completed",
+            "timestamp": "2020-05-01 09:20:00"
+        },
+        {
+            "stage_id": "sign_out",
+            "patient_id": "patient_2",
+            "state_change": "started",
+            "timestamp": "2020-05-01 15:36:00"
+        },
+        {
+            "stage_id": "sign_in",
+            "patient_id": "patient_3",
+            "state_change": "started",
+            "timestamp": "2020-05-01 14:05:00"
+        },
+        {
+            "stage_id": "sign_out",
+            "patient_id": "patient_2",
+            "state_change": "completed",
+            "timestamp": "2020-05-01 15:44:00"
+        },
+        {
+            "stage_id": "sign_out",
+            "patient_id": "patient_1",
+            "state_change": "started",
+            "timestamp": "2020-05-01 11:30:00"
+        },
+        {
+            "stage_id": "sign_in",
+            "patient_id": "patient_1",
+            "state_change": "started",
+            "timestamp": "2020-05-01 09:00:00"
+        },
+        {
+            "stage_id": "time_out",
+            "patient_id": "patient_3",
+            "state_change": "completed",
+            "timestamp": "2020-05-01 14:38:00"
+        }
+    ]
+}
